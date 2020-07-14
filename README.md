@@ -1,2 +1,2 @@
-# statistika-in046
+# IN046 Statistika
 Lecture slides and codes for IN046 Statistika at Maranatha Christian University 
