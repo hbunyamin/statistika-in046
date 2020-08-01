@@ -11,10 +11,10 @@ Specifically, execute the following steps:
 1. Create a conda environment; we name the environment as `rise-env`:     
 `$ conda create -n rise-env python=3.8 pandas matplotlib numpy jupyter scipy`
 
-2. Change the environment into our new environment:         
-`conda activate rise-env`     
+2. Change the environment into our new environment:            
+`$ conda activate rise-env`     
 
-3. Install RISE:
+3. Install RISE:       
 `$ conda install -c conda-forge rise`    
 
 4. Run the jupyter notebooks and enjoy the slides!
